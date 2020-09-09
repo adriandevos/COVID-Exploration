@@ -37,3 +37,4 @@ my_theme <- theme(plot.background = element_rect(fill = "grey98", color = "grey2
                   
 ```
 
+![](/images/US%20Deaths%20Over%20Time.jpeg)
